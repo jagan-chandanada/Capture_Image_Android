@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Mobile Computing</string>
+    <string name="button">Button</string>
+    <string-array name="languages">
+        <item>Electronics</item>
+        <item>Furniture</item>
+        <item>Human</item>
+        <item>Nature</item>
+        <item>Building</item>
+    </string-array>
+</resources>
